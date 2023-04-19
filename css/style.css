@@ -4,16 +4,16 @@
 */
 
 body {
-  background-color: rgba(36, 29, 29, 0.732);
+  background-color:cornsilk;
 }
 
 h1 {
-  background-color: rgb(223, 187, 119);
-  color: hsl(0, 0%, 100%);
+  background-color: (orange);
+  color: white);
   padding: 40px;
   text-align: center;
 }
 
 p {
-background-color: #888888;
+background-color:gainsboro;
 }
